@@ -1,0 +1,2 @@
+-keep class com.inkline.lockscreen.data.db.** { *; }
+-keep class com.inkline.lockscreen.scheduling.** { *; }

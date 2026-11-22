@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Minimalist thin white bracket tray inspired by Reference Image 2 (zero dots/circles) -->
+    <path
+        android:strokeColor="#FAF9F6"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="square"
+        android:strokeLineJoin="miter"
+        android:pathData="M28,48 L24,48 L24,62 L80,62 L80,48 L72,48" />
+    <path
+        android:strokeColor="#FFD426"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="square"
+        android:pathData="M62,38 L84,38" />
+</vector>
