@@ -1,6 +1,6 @@
 # ClockIn
 
-**clock.in** is an independent, standalone edition of DayDot (`com.clockin.lockscreen`) built with Kotlin, Jetpack Compose, Room, DataStore, WorkManager, and Android's `WallpaperManager.FLAG_LOCK` API. Because it uses a separate application ID, database, and preferences store, it installs cleanly right alongside the original **DayDot** (`com.daydot.lockscreen`) with zero conflicts.
+**clock.in** is an independent, standalone edition (`com.clockin.lockscreen`) built with Kotlin, Jetpack Compose, Room, DataStore, WorkManager, and Android's `WallpaperManager.FLAG_LOCK` API. Because it uses a separate application ID, database, and preferences store, it installs cleanly with zero conflicts.
 
 ## Lock-Screen Design
 - Pure black (`#000000`) canvas with crisp off-white (`#FAF9F6`) hand-drawn typography and thin decorative architectural lines.
